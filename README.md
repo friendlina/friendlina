@@ -1,6 +1,6 @@
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+FRIENDLINA
  
-"hoge"が何かを簡潔に紹介する
+"FRIENDLINA" is ...
  
 # DEMO
  
@@ -48,10 +48,4 @@ python demo.py
 * E-mail
  
 # License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+"FRIENDLINA" is Confidential.
