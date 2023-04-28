@@ -1,10 +1,12 @@
 FRIENDLINA
  
-"FRIENDLINA" is ...
+"FRIENDLINA" is Self-employed.
  
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+# Works
+* Program : C / C# / GoLang / python
+* Server  : Linux(Ubuntu,CentOS) , Windows
+* etc     : Excel , VPN 
+* Custom PC Builder.
  
 # Features
  
