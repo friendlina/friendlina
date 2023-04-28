@@ -4,9 +4,9 @@ FRIENDLINA
  
 # Works
 * System Engineer
-** Programer : C / Java / VB / GoLang / PHP / python ...
-** Server  : Linux(Ubuntu,CentOS) , Windows
-** etc     : Excel , VPN 
+* Programer : C / Java / VB / GoLang / PHP / python ...
+* Server  : Linux(Ubuntu,CentOS) , Windows
+* etc     : Excel , VPN 
 * Custom PC Builder.
 
 # Features
