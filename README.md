@@ -3,11 +3,12 @@ FRIENDLINA
 "FRIENDLINA" is Self-employed.
  
 # Works
-* Program : C / C# / GoLang / python
-* Server  : Linux(Ubuntu,CentOS) , Windows
-* etc     : Excel , VPN 
+* System Engineer
+** Programer : C / Java / VB / GoLang / PHP / python ...
+** Server  : Linux(Ubuntu,CentOS) , Windows
+** etc     : Excel , VPN 
 * Custom PC Builder.
- 
+
 # Features
  
 "hoge"のセールスポイントや差別化などを説明する
