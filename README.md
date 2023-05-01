@@ -19,7 +19,7 @@ We use our extensive experience to carry out the following activities.
 
 # Author
 * FRIENDLINA President.
-* E-mail : friendlina.info⚽gmail.com
+* friendlina.info⚽gmail.com
  
 # License
 "FRIENDLINA" is Confidential.
