@@ -1,55 +1,23 @@
 **FRIENDLINA**
  
-"FRIENDLINA" is Self-employed Teams.
- 
-# Works
-* System Engineer
-* Programer (C / Java / VB / GoLang / PHP / python ...)
-* Server  : Linux(Ubuntu,CentOS) , Windows
-* etc     : Excel , VPN 
-* Custom PC Builder.
-* PC instructor.
+"FRIENDLINE" is a group of self-employed system developers.
 
 # Features
- 
-"hoge"のセールスポイントや差別化などを説明する
- 
-# Requirement
- 
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
- 
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
- 
-# Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+ We use our extensive experience to carry out the following activities.
+* System Engineer (Analyze,Design,Coding,Testing,Operation,Maintenance)
+* Program learning (C / Java / VB / GoLang / PHP / python ...)
+* Support for independent engineers
+* Server (Linux(Ubuntu,CentOS) / Windows)
+* Application support (Excel / VPN)
+* PC builder(Custom / Maintenance).
+* PC instructor.
  
 # Note
  
-注意点などがあれば書く
- 
 # Author
- 
-作成情報を列挙する
- 
-* 作成者
+* FRD_Friendlina
 * 所属
-* E-mail
+* E-mail : aaa@gmail.com
  
 # License
 "FRIENDLINA" is Confidential.
