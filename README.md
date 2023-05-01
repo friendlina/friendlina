@@ -17,7 +17,7 @@
 # Author
 * FRD_Friendlina
 * 所属
-* E-mail : aaa@gmail.com
+* E-mail : @gmail.com
  
 # License
 "FRIENDLINA" is Confidential.
