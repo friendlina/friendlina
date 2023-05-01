@@ -1,6 +1,6 @@
 **FRIENDLINA**
  
-"FRIENDLINA" is Self-employed.
+"FRIENDLINA" is Self-employed Teams.
  
 # Works
 * System Engineer
