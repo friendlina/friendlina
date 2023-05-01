@@ -13,9 +13,9 @@ Please contact us for more information.
 * Program learning (C / Java / VB / GoLang / PHP / python ...)
 * Server (Linux(Ubuntu,CentOS) / Windows)
 * Application support (Excel...)
-* small scale VPN construction.
-* PC builder(Custom / Maintenance).
-* PC instructor.
+* small scale VPN construction
+* PC builder(Custom / Maintenance)
+* PC instructor
 
 # Contact
 * FRIENDLINA President.
