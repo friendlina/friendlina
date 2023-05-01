@@ -17,9 +17,6 @@ We use our extensive experience to carry out the following activities.
 * PC builder(Custom / Maintenance).
 * PC instructor.
 
-# Author
+# Contact
 * FRIENDLINA President.
 * friendlina.info⚽gmail.com
- 
-# License
-"FRIENDLINA" is Confidential.
