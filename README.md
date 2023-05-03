@@ -11,12 +11,21 @@ Please contact us for more information.
 * Support for independent engineers
 * System Engineer (Analyze,Design,Coding,Testing,Operation,Maintenance)
 * Program learning (C / Java / VB / GoLang / PHP / python ...)
-* Server (Linux(Ubuntu,CentOS) / Windows)
+* Server (Linux / Windows)
 * Application Support (Excel...)
 * small scale VPN construction
 * PC Builder(Custom / Maintenance)
 * PC Instructor
 * Movice Creator
+
+# Application
+* OS : Windows / Linux / iOS / Android
+* Linux : Ubuntu / CentOS / Arch Linux
+* Office : Word / Excel / PowerPoint
+* Softeter VPN
+* PowerDirector
+* OBS Studio
+* Wireshark
 
 # Contact
 * FRIENDLINA President.
