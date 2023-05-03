@@ -12,10 +12,11 @@ Please contact us for more information.
 * System Engineer (Analyze,Design,Coding,Testing,Operation,Maintenance)
 * Program learning (C / Java / VB / GoLang / PHP / python ...)
 * Server (Linux(Ubuntu,CentOS) / Windows)
-* Application support (Excel...)
+* Application Support (Excel...)
 * small scale VPN construction
-* PC builder(Custom / Maintenance)
-* PC instructor
+* PC Builder(Custom / Maintenance)
+* PC Instructor
+* Movice Creator
 
 # Contact
 * FRIENDLINA President.
