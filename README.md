@@ -18,7 +18,7 @@ Please contact us for more information.
 * PC Instructor
 * Movice Creator
 
-# Application
+# Experienced Application
 * OS : Windows / Linux / iOS / Android
 * Linux : Ubuntu / CentOS / Arch Linux
 * Office : Word / Excel / PowerPoint
@@ -26,6 +26,13 @@ Please contact us for more information.
 * PowerDirector
 * OBS Studio
 * Wireshark
+
+# Experienced Service
+* Discord
+* Line
+* Sakura VPS
+* freee
+* Youtube
 
 # Contact
 * FRIENDLINA President.
